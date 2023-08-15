@@ -1,0 +1,8 @@
+{
+  "item.mymod.zircon": "Zircon",
+  "item.mymod.raw_zircon": "Raw Zircon",
+  "block.mymod.zircon_block": "Block of Zircon",
+  "block.mymod.zircon_ore": "Zircon Ore",
+  "block.mymod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "itemGroup.mymodtab": "My Mod"
+}
